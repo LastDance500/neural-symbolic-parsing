@@ -4,7 +4,7 @@ import torch
 from tqdm import tqdm
 
 from transformers import ByT5Tokenizer, T5ForConditionalGeneration, AdamW
-from torch.optim.lr_scheduler import ReduceLROnPlateau
+from torch.optim.lr_scheduler import StepLR
 
 path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -82,9 +82,9 @@ class Generator:
         return average_loss
 
 
-    def train(self, train_loader, val_loader, lr, epoch_number, patience=3):
+    def train(self, train_loader, val_loader, lr, epoch_number, patience=5, step_size=10, gamma=0.2, save_path=""):
         optimizer = AdamW(self.model.parameters(), lr)
-        scheduler = ReduceLROnPlateau(optimizer, 'min')
+        scheduler = StepLR(optimizer, step_size=step_size, gamma=gamma)
         best_val_loss = float('inf')
         epochs_no_improve = 0
 
@@ -108,6 +108,7 @@ class Generator:
             # Validation phase
             val_loss = self.validate(val_loader)
             print(f"val loss: {val_loss}")
+
             # Check if validation loss improved
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
@@ -115,10 +116,14 @@ class Generator:
             else:
                 epochs_no_improve += 1
 
+            if len(save_path) != 0 and epochs_no_improve == 0:
+                self.model.save_pretrained(save_path)
+
             # Adjust learning rate
-            scheduler.step(val_loss)
+            scheduler.step()
 
             # Early stopping check
             if epochs_no_improve == patience:
                 print("Early stopping triggered")
                 break
+
