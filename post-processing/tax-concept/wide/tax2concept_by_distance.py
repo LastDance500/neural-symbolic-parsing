@@ -28,7 +28,7 @@ def create_arg_parser():
                         help="path of sbn file, one independent sbn should be in one line")
     parser.add_argument("-s", '--save_file', default=os.path.join(path,"prediction/post_results/tax_extra.sbn.post.dis"), type=str,
                         help="path to save sbn file")
-    parser.add_argument("-t", '--tax_file', default=os.path.join(path,"pre-processing/utils/all_languages"), type=str,
+    parser.add_argument("-t", '--tax_file', default=os.path.join(path,"pre-processing/utils/wide"), type=str,
                         help="path of tax code file")
     parser.add_argument("-d", '--distance', default=False, type=bool,
                         help="using post-edit or not")
