@@ -158,9 +158,9 @@ for soft smatch, i.e. standard smatch:
 <!-- Results -->
 ## Results
 
-In this repo, we provide the results of 
+In this repo, we provide the one run result for standard set, challenge set, long set for the reader's reference, which can be found in <code>experiments/results</code>
 
-
+The challenge set is not public, please contact us if you want to test on it.
 
 
 <!-- LICENSE -->
