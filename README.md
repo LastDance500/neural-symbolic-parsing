@@ -33,6 +33,7 @@
     <li><a href="#post-processing">Post processing</a></li>
     <li><a href="#evaluation">Evaluation</a></li>
     <li><a href="#results">Results</a></li>
+    <li><a href="#probing">Probing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -163,6 +164,25 @@ In this repo, we provide the one run result for standard set, challenge set, lon
 The challenge set is not public, please contact us if you want to test on it.
 
 
+<!-- Probing -->
+## Probing
+
+run the probing for examples (! you need to have the trained models):
+
+   ```sh
+   python3 ./prediction/probing/prob.py
+   ```
+
+run the probing for Hierarchy Reflection Score (HRS) (! you need to have the challenge set): 
+
+   ```sh
+   python3 ./prediction/probing/prob_all_sensem.py  # you need to have the sense embeddings, check SensEmBERT
+   python3 ./prediction/probing/prob_all_lps.py 
+   python3 ./prediction/probing/prob_all_id.py
+   python3 ./prediction/probing/prob_all_tax.py
+   ```
+
+
 <!-- LICENSE -->
 ## License
 
@@ -175,6 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Xiao Zhang - xiao.zhang@rug.nl
+
 Johan Bos - johan.bos@rug.nl
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
