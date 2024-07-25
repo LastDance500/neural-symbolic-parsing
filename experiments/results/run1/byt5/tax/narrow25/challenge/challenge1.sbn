@@ -1,0 +1,20 @@
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Peter" nAAAABBACzzzzzzzzzzzzzzz t35000 -1 ¬ <1 nAACCBBBzzzzzzzzzzzzzzzz ≺ now aAACABPAAzzzzzzzzzzzzzzz+ i10000 -2 t21000 -1
+nABBBBAADzzzzzzzzzzzzzzz = speaker rAACCJCAAAAzzzzzzzzzzzzz+ vAAAABAABDAAJzzzzzzzzzzz t22100 -2 t24300 -1 t21000 +1 t23100 +3 t25120 +4 nAACCBBBzzzzzzzzzzzzzzzz ≺ now aAACAAIBCAAzzzzzzzzzzzzz+ i10000 +1 nABBBAAEAAAABzzzzzzzzzzz nABCAACAzzzzzzzzzzzzzzzz
+nABBBBAADzzzzzzzzzzzzzzz = speaker nAACCBBBzzzzzzzzzzzzzzzz = now aAACFKAzzzzzzzzzzzzzzzzz+ t23210 -2 t21000 -1 r22210 +2 nABBBBAADzzzzzzzzzzzzzzz = hearer nAAAABBARzzzzzzzzzzzzzzz t35000 -1
+nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAHBzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz = now rAABAAACBACzzzzzzzzzzzzz| aAACFFAAABzzzzzzzzzzzzzz+ i10000 -3 t21000 -2 t24100 -1
+nABBABCABzzzzzzzzzzzzzzz t12000 "Antigua and Barbuda" vBAABzzzzzzzzzzzzzzzzzzz t23100 -1 t21000 +1 t23120 +3 nAACCBBBzzzzzzzzzzzzzzzz = now aAACAAEBABzzzzzzzzzzzzzz+ i10000 +1 nABBABCABzzzzzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz vAACBATABABBAAAzzzzzzzzz t22100 -1 t21000 +1 t24300 +2 nAACCBBBzzzzzzzzzzzzzzzz ≺ now rAACCJCAAAzzzzzzzzzzzzzz+
+nABBBAEABAzzzzzzzzzzzzzz vABAAAJEzzzzzzzzzzzzzzzz t23140 -1 t21000 +1 t23100 +3 nAACCBBBzzzzzzzzzzzzzzzz ≺ now aAACCBEAzzzzzzzzzzzzzzzz+ i10000 +1 nABBBAEBCKzzzzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Richard" nAACCBBBzzzzzzzzzzzzzzzz = now aAACAADAACzzzzzzzzzzzzzz- i10000 -2 t21000 -1
+nABBBBAAATzzzzzzzzzzzzzz nAACBABACABAAzzzzzzzzzzz t35000 -1 nAACCBBBzzzzzzzzzzzzzzzz ≺ now aAACBABDBDAzzzzzzzzzzzzz+ i10000 -2 t21000 -1
+nABEBAABCBAzzzzzzzzzzzzz vBAABzzzzzzzzzzzzzzzzzzz t23100 -1 t21000 +1 t23120 +3 nAACCBBBzzzzzzzzzzzzzzzz = now aAACCJCAAzzzzzzzzzzzzzzz+ i10000 +1 nAAAACAzzzzzzzzzzzzzzzzz t25100 +1 nABBABCAFzzzzzzzzzzzzzzz = +1 nABBABCAFzzzzzzzzzzzzzzz = +1 nABBABCAFzzzzzzzzzzzzzzz = +1 nABBABCAFzzzzzzzzzzzzzzz = +1 nABBABCAFzzzzzzzzzzzzzzz t12000 "Groningen"
+nABBBBAADzzzzzzzzzzzzzzz vABBAACDAAAAzzzzzzzzzzzz t22100 -1 t21000 +1 t25100 +3 nAACCBBBzzzzzzzzzzzzzzzz = now aAACAAMzzzzzzzzzzzzzzzzz+ i10000 +1 nABBBAAHABAzzzzzzzzzzzzz
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAACBADMAAzzzzzzzzzzzzzz t23210 -1 t21000 +1 r22210 +3 nAACCBBBzzzzzzzzzzzzzzzz = now aAACCCCAAMzzzzzzzzzzzzzz+ i14000 +1 nAACCCAAAzzzzzzzzzzzzzzz
+nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAEABAAzzzzzzzzzz vAAAABBAOCzzzzzzzzzzzzzz t22100 -2 t21000 +1 t23100 +3 t24210 +5 nAACCBBBzzzzzzzzzzzzzzzz ≺ now aAACAAPAAAAAzzzzzzzzzzzz+ i10000 +1 nAADBDzzzzzzzzzzzzzzzzzz nABBBBAAAYzzzzzzzzzzzzzz ≡ -5 nAADBACzzzzzzzzzzzzzzzzz t35000 -1
+aAACBADADCBzzzzzzzzzzzzz+ i10000 +1 nABBBBAAAYAzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz ≺ now vAAAABAHABEzzzzzzzzzzzzz t23200 -2 t21000 -1 t22100 +2 aAACFFAAAAzzzzzzzzzzzzzz+ i10000 +1 nABBBBABzzzzzzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz aAACAADAACzzzzzzzzzzzzzz+ i10000 +1 nAADCBCAAzzzzzzzzzzzzzzz t35000 -2 ¬ <1 nAACCBBBzzzzzzzzzzzzzzzz ≺ now aAACAADAACzzzzzzzzzzzzzz+ i10000 -2 t21000 -1
+nABBBBAAATzzzzzzzzzzzzzz vBAIzzzzzzzzzzzzzzzzzzzz t23100 -1 t21000 +1 t23120 +3 nAACCBBBzzzzzzzzzzzzzzzz = now aAACFFAAAAzzzzzzzzzzzzzz+ i10000 +2 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAFAFzzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAABzzzzzzzzz t31000 -2 nAACCBBBzzzzzzzzzzzzzzzz = now vAAAABAABDAAAAzzzzzzzzzz t23100 -3 t21000 -1 t25100 +2 aAACABJAAzzzzzzzzzzzzzzz+ i10000 +1 nABBABABAAzzzzzzzzzzzzzz
+nABBBBAADzzzzzzzzzzzzzzz = hearer vAACBADNAAAzzzzzzzzzzzzz r22210 -1 t21000 +1 t23210 +2 nAACCBBBzzzzzzzzzzzzzzzz ≺ now nABBBBAADzzzzzzzzzzzzzzz = speaker
+nAAAAAAAzzzzzzzzzzzzzzzz vABAAAJEzzzzzzzzzzzzzzzz t23140 -1 t21000 +1 t23100 +3 nAACCBBBzzzzzzzzzzzzzzzz = now aAACCJCAAzzzzzzzzzzzzzzz+ i10000 +1 nAAAABBACAAAAAzzzzzzzzzz
+nAACBABACABAAAzzzzzzzzzz vAAAABAAEAABAHAzzzzzzzzz t22200 -1 t21000 +1 t23200 +3 nAACCBBBzzzzzzzzzzzzzzzz ≺ now nABBBBAAAYzzzzzzzzzzzzzz nAACFDAAzzzzzzzzzzzzzzzz t35000 -1

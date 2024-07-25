@@ -1,0 +1,129 @@
+person.n.01 EQU speaker see.v.01 Experiencer -1 Time +1 Stimulus +3 Source +4 time.n.08 TPR now short.a.02 Value + extract.n.01 Attribute -1 film.n.01
+luxurious.a.01 AttributeOf +1 cruiser.n.01 glide.v.02 Theme -1 Time +1 Manner +2 Path +3 time.n.08 TPR now smoothly.r.02 calm.a.02 AttributeOf +1 water.n.02 Creator +1 bay.n.01
+female.n.02 Name "Sylvia" EQU +2 person.n.01 Role +1 ornithologist.n.01 spot.v.03 Agent -3 Time +1 Theme +3 time.n.08 TPR now rare.a.01 AttributeOf +1 warbler.n.01 Location +1 island.n.01
+male.n.02 Name "Scott Joplin" compose.v.06 Agent -1 Time +1 Result +3 time.n.08 TPR now famous.a.01 AttributeOf +1 rag.n.01 title.v.02 Theme -1 Time +1 Result +2 time.n.08 TPR now name.n.01 EQU "Maple Leaf Rag"
+female.n.02 Name "Joan" time.n.08 TPR now birdwatch.v.01 Agent -2 Time -1 CONTINUATION <1 female.n.02 ANA -3 see.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 TPR now harrier.n.01 kite.n.03 entity.n.01 Sub -1 Sub +1 hobby.n.01
+person.n.01 Role +1 doctor.n.01 say.v.01 Proposition >1 Agent -2 Time +1 time.n.08 TPR now CONTINUATION <0 female.n.02 ANA -3 need.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now check.v.03 Agent -3 Theme +2 male.n.02 Name "John" stool.n.02 User -1
+person.n.01 Role +1 golfer.n.01 play.v.01 Agent -2 Time +1 Manner +2 time.n.08 TPR now well.r.01 score.v.03 Agent -4 Time +1 Theme +2 time.n.08 TPR now eagle.n.01
+female.n.02 Name "Sarah" time.n.08 EQU now shy.a.01 AttributeOf -2 Time -1 be.v.01 Theme -3 Time +1 Co-Theme +2 Location +3 time.n.08 EQU now wallflower.n.01 party.n.04
+person.n.01 Role +1 carpenter.n.01 time.n.08 TPR now construct.v.01 Agent -3 Time -1 Product +1 Instrument +2 fence.n.01 beetle.n.01
+language.n.01 EQU "hungary" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now challenging.a.01 AttributeOf +1 language.n.01 Part +2 quantity.n.01 EQU 18 case.n.02 Quantity -1
+person.n.01 Role +1 rancher.n.01 build.v.01 Agent -2 Time +1 Product +3 Beneficiary +5 time.n.08 TPR now sturdy.a.01 AttributeOf +1 pen.n.01 male.n.02 cattle.n.01 User -1
+female.n.02 Name "Jane" see.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 TPR now quantity.n.01 EQU 2 swan.n.01 Quantity -1 CONTINUATION <1 elegant.a.01 AttributeOf +1 pen.n.01 glide.v.02 Theme -1 Time +1 Manner +2 Destination +3 time.n.08 TPR now gracefully.r.01 tranquil.a.01 AttributeOf +1 lake.n.01
+female.n.02 time.n.08 TPR now videotape.v.01 Agent -2 Time -1 Theme +1 gondola.n.01 CONTINUATION <1 entity.n.01 ANA -3 float.v.01 Theme -1 Time +1 Path +2 time.n.08 TPR now canal.n.03
+table.n.02 time.n.08 EQU now miss.v.06 Pivot -2 Time -1 Theme +1 leg.n.03
+person.n.01 Role +1 detective.n.01 plant.v.01 Agent -2 Time +1 Theme +2 Destination +4 time.n.08 TPR now bug.n.02 person.n.01 Role +1 suspect.n.01 office.n.01 gather.v.02 Agent -5 Theme +1 evidence.n.03 investigation.n.01
+factory.n.01 sell.v.01 Agent -1 Time +1 Theme +2 Recipient +3 time.n.08 TPR now arm.n.06 person.n.01 Role +1 terrorist.n.01
+thrush.n.01 song.n.01 Creator -1 fill.v.01 Agent -1 Time +1 Destination +2 Theme +4 time.n.08 TPR now forest.n.02 entity.n.01 ANA -3 melodious.a.01 AttributeOf +1 note.n.06
+garden.n.01 time.n.08 TPR now teem.v.01 Location -2 Time -1 Theme +1 life.n.01 CONTINUATION <1 colorful.a.01 AttributeOf +1 admiral.n.01 flyt.v.01 Theme -2 Time +1 Source +2 time.n.08 TPR now flower.n.01
+female.n.02 run.v.20 Theme -1 Time +1 Path +2 Path +4 time.n.08 TPR now brush.n.02 female.n.02 ANA -4 hair.n.01 PartOf -1
+tiny.a.01 AttributeOf +1 wren.n.03 time.n.08 TPR now hide.v.02 Agent -2 Time -1 Location +1 shrub.n.02
+male.n.02 search.v.01 Agent -1 Time +1 Theme +2 Location +3 time.n.08 TPR now treasure.n.01 ocean.n.01 bed.n.01 Location -1
+male.n.02 leave.v.10 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now impression.n.01 Theme +2 male.n.02 ANA -4 finger.n.01 PartOf -1 Location +2 male.n.02 ANA -5 soft.a.01 AttributeOf +1 mud.n.01
+pressure.n.02 activate.v.01 Causer -1 Time +1 Patient +2 time.n.08 EQU now tripper.n.01 release.v.02 Causer -4 Time +1 Theme +2 time.n.08 EQU now water.n.06
+person.n.01 dance.v.03 Agent -1 Time +1 Theme +3 time.n.08 TPR now country.n.02 Name "ireland" reel.n.03 Source -1
+female.n.02 prepare.v.01 Agent -1 Time +1 Product +4 time.n.08 TPR now quantity.n.01 EQU 3 course.n.02 meal.n.01 Quantity -2 Theme -1
+woman.n.01 wear.v.01 Agent -1 Time +1 Theme +4 time.n.08 TPR now short.a.02 Value + black.a.01 mantle.n.02 Attribute -2 Colour -1
+male.n.02 time.n.08 TPR now smoke.v.01 Agent -2 Time -1 Patient +1 joint.n.01
+female.n.02 serve.v.06 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now shuttle.n.02 net.n.02 CONTINUATION <1 rally.n.02 begin.v.01 Time +1 PartOf +2 time.n.08 TPR now
+man.n.01 time.n.08 TPR now bite.v.01 Patient -2 Time -1 Agent +1 adder.n.01 CONTRAST <1 male.n.02 ANA -4 time.n.08 TPR now walk.v.01 Theme -2 Time -1 Location +1 forest.n.02
+music.n.01 time.n.08 TPR now play.v.07 Theme -2 Time -1 Location +2 wrong.a.03 AttributeOf +1 key.n.01
+NEGATION <1 harrier.n.01 NEGATION <1 be.v.01 Theme -1 Co-Theme +2 muscular.a.01 AttributeOf +1 dog.n.01 Instrument +2 hard.a.03 AttributeOf +1 coat.n.01
+person.n.01 Role +1 software_engineer.n.01 put.v.01 Agent -2 Time +1 Theme +2 Destination +3 time.n.08 TPR now floppy.n.02 drive.n.01
+person.n.01 Role +1 musician.n.01 time.n.08 TPR now play.v.03 Agent -3 Time -1 Theme +2 complicated.a.01 AttributeOf +1 fugue.n.01 person.n.01 Role +1 grand.n.01
+male.n.02 try.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now programming_language.n.01 Quantity + run.v.07 Agent -3 Theme +1 application.n.01
+base.n.01 person.n.01 Role +1 runner.n.02 scramble.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now get_back.v.01 Theme -4 Destination +1 bag.n.01
+person.n.01 make.v. cover.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now cover.n.05 PartOf +2 musical_organization.n.01 Name "Beatles" song.n.01 Creator -1
+kid.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now terrible.a.01 AttributeOf +1 pain.n.01
+person.n.01 Role +1 stripper.n.02 Location +1 club.n.02 do.v.02 Agent -2 Time +1 Theme +2 Beneficiary +3 time.n.08 TPR now strip.n.01 person.n.01 Sub speaker
+immune_response.n.01 recognize.v.04 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now invading_drug.n.01
+massive.a.01 AttributeOf +1 ray.n.03 time.n.08 TPR now catch.v.04 Theme -2 Time -1 Agent +1 Location +2 fisherman.n.01 city.n.01 Name "M Mangaluru"
+person.n.01 Role +1 boss.n.01 give.v.03 Agent -2 Time +1 Recipient +2 Theme +3 time.n.08 TPR now person.n.01 EQU speaker increase.n.01 Quantity +1 salary.n.01
+person.n.01 Role +1 mayor.n.01 propose.v.01 Agent -2 Time +1 Theme +3 Context +4 time.n.08 TPR now extensive.a.01 AttributeOf +1 cut.n.03 city.n.01 budget.n.01 Theme -1
+snail.n.01 withdraw.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now entity.n.01 ANA -3 antennae.n.01 PartOf -1
+person.n.01 Role +1 queen.n.02 make.v.06 Agent -2 Time +1 Product +3 time.n.08 TPR now grand.a.01 AttributeOf +1 entrance.n.01
+joint.n.06 operation.n.01 Theme +2 navy.n.01 entity.n.01 Sub -1 Sub +1 air_force.n.01 time.n.08 TPR now successful.a.01 AttributeOf -5 Time -1
+restaurant.n.01 have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now excellent.a.01 AttributeOf +1 service.n.01
+cat.n.01 whicker.n.01 Owner -1 time.n.08 TPR now twitch.v.01 Patient -2 Time -1
+person.n.01 EQU speaker suffer.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now attack.n.04 Theme +1 diarrhea.n.01
+person.n.01 EQU speaker try.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now describe.v.01 Agent -3 Theme +2 male.n.02 appearance.n.01 Creator -1 police.n.01
+sub.n.01 bump_into.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now dock.n.01
+female.n.02 like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now touch.n.02 PartOf +1 silk.n.01 Location +2 female.n.02 ANA -5 skin.n.01 PartOf -1
+male.n.02 placed.v.01 Agent -1 Time +1 Theme +3 Destination +4 time.n.08 TPR now quantity.n.01 EQU 2 weight.n.01 Quantity -1 scale.n.04
+male.n.02 labor.n.06 Creator -1 require.v.01 Pivot -1 Time +1 Theme +3 time.n.08 TPR now great.a.01 AttributeOf +1 deal.n.04 Theme +1 skill.n.01
+person.n.01 Role +1 coach.n.01 say.v.01 Proposition >1 Agent -2 Time +1 time.n.08 TPR now CONTINUATION <0 offensive.a.01 AttributeOf +1 unit.n.01 do.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now good.a.01 AttributeOf +1 job.n.02
+time.n.08 TPR now person.n.01 EQU hearer place.v.01 Time -2 Agent -1 Theme +1 Location +2 period.n.03 end.n.03 PartOf +1 sentence.n.01
+female.n.02 button.v.02 Agent -1 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 top.n.01 PartOf -1
+male.n.02 remove.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now top.n.02 PartOf +1 carton.n.01
+person.n.01 Sub speaker drive.v.03 Agent -1 Time +1 Destination +2 Theme +3 time.n.08 TPR now country.n.02 Name "Spain" coach.n.01
+person.n.01 Role +1 nurse.n.01 give.v.03 Agent -2 Time +1 Recipient +2 Theme +3 time.n.08 TPR now male.n.02 shot.n.01
+person.n.01 make.v.15 Agent -1 Time +1 Product +2 Location +4 time.n.08 TPR now toast.n.01 male.n.02 funeral.n.01 Creator -1
+male.n.02 stir.v.01 Agent -1 Time +1 Patient +2 Instrument +3 time.n.08 TPR now fire.n.01 poker.n.02
+elephant.n.01 trunk.n.01 PartOf -1 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now extended.a.01 AttributeOf +1 nose.n.01
+male.n.02 Name " Rick Wakeman" time.n.08 TPR now play.v.07 Agent -2 Time -1 Theme +2 male.n.02 ANA -3 organ_joint.n.01 User -1 wear.v.02 Agent -5 Time +1 Theme +2 time.n.08 TPR now cape.n.01
+male.n.02 buy.v.01 Agent -1 Time +1 Theme +2 Beneficiary +3 time.n.08 TPR now painting.n.01 male.n.02 Name "Picasso" Title -1 Theme +1 song.n.01 flea_market.n.01
+male.n.02 Name "Zola Budd" time.n.08 TSU now run.v.01 Theme -2 Time -1 Location +1 heat.n.02 Order 3
+city.n.01 Name "New York" be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now mouth.n.03 PartOf +1 river.n.01 Name "Himalayas"
+person.n.01 Role +1 soldier.n.01 time.n.08 TPR now shoot.v.01 Patient -3 Time -1 Destination +1 calf.n.01
+chemistry.n.01 location.n.01 SY2 +2 person.n.01 EQU hearer entity.n.01 Sub -1 Sub +1 person.n.01 EQU speaker time.n.08 EQU now strong.a.01 AttributeOf -5 Time -1
+squirrel.n.01 disappear.v.01 Patient -1 Time +1 Location +2 time.n.08 TPR now crown.n.01 PartOf +1 tree.n.01
+bolt.n.06 NEGATION <1 time.n.08 TPR now fit.v.02 Theme -2 Time -1 Destination +1 nut.n.03
+female.n.02 Name "Tita" prepare.v.01 Agent -1 Time +1 Product +2 time.n.08 TPR now mole.n.04 Content +3 chocolate.n.02 almond.n.02 entity.n.01 Sub -2 Sub -1 Sub +1 sesame.n.01
+crane.n.01 lift.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now heavy.a.01 Value + truck.n.01 Attribute -1
+female.n.02 Name "Jean" cook.v.01 Agent -1 Time +1 Patient +2 Location +4 time.n.08 TPR now bass.n.02 large.a.01 Value + steamer.n.01 Attribute -1
+female.n.02 shake.v.09 Agent -1 Time +1 Theme +4 time.n.08 TPR now female.n.02 ANA -3 beautiful.a.01 AttributeOf +1 lock.n.01 User -2
+male.n.02 Name "Roger Federer" hit.v.10 Agent -1 Time +1 Extent +3 Time +4 time.n.08 TPR now quantity.n.01 EQU 50 ace.n.02 Quantity -1 time.n.08 YearOfCentury 2009
+person.n.01 Role +1 violinist.n.01 time.n.08 TPR now indulgent.v.01 Experiencer -3 Time -1 Stimulus +3 male.n.02 ANA -4 swoop.n.01 Creator -1 entity.n.01 Sub -1 Sub +1 slide.n.03
+female.n.02 Name "Patricia" time.n.08 TPR now wear.v.01 Agent -2 Time -1 Theme +1 silk_ slip.n.01
+person.n.01 play.v.01 Agent -1 Time +1 Theme +2 Location +3 time.n.08 TPR now Scrabble.n.01 living_room.n.01
+person.n.01 Role +1 enemy.n.01 person.n.01 Role +1 soldier.n.01 follow.v.01 Agent -2 Time +1 Theme +2 Destination +3 time.n.08 TPR now decoy.n.01 ambush.n.01
+person.n.01 Role +1 farmer.n.01 claim.v.01 Proposition >1 Agent -2 Time +1 time.n.08 EQU now CONTINUATION <0 jaw.n.01 cause.v.01 Causer -1 Time +1 Theme +2 time.n.08 EQU now damage.n.01 Beneficiary +1 crop.n.02
+country.n.02 Name "America" current.a.02 AttributeOf +1 account.n.03 User -2 balloon.v.02 Location -1 Time +1 time.n.08 TPR now
+female.n.02 dress.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now salad.n.01
+tiger_wood.n.01 ac.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 16 hole.n.02 Quantity -1
+suzy.a.02 AttributeOf +1 poach.v.03 Agent -1 Time +1 Patient +2 Manner +3 time.n.08 TPR now apricot.n.01 gently.r.01 sweet.a.01 AttributeOf +1 syrup.n.01
+hawker.n.01 time.n.08 EQU now hawk.v.01 Agent -2 Time -1 Location +1 Instrument +2 desert.n.01 merlin.n.01
+male.n.02 shuffle.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now card.n.01
+police.n.01 bust.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now racket.n.04 time.n.08 TPR now involve.v.02 Theme -3 Time -1 Goal +1 looting_body.n.01
+person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +4 Location +8 time.n.08 TPR now rocket.n.01 cucumber.n.02 entity.n.01 Sub -2 Sub -1 Sub +1 radish.n.01 greengrocer.n.01
+male.n.02 Name "Magus" make.v.24 Agent -1 Time +1 Theme +3 time.n.08 TPR now brilliant.a.01 AttributeOf +1 move.n.01 check.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now white.a.01 person.n.01 Role +1 king.n.01 Colour -2
+male.n.02 Name "Tomino" time.n.08 TPR now plug.v.05 Agent -2 Time -1 Theme +1 Time +3 movie.n.01 Name "Hathaway" time.n.08 YearOfCentury 2019
+person.n.01 Role +1 researcher.n.01 catch.v.04 Agent -2 Time +1 Theme +2 Location +3 time.n.08 TPR now bird.n.01 net.n.02 ring.v.05 Agent -5 Time +1 Theme +2 time.n.08 TPR now entity.n.01 ANA -3
+person.n.01 EQU hearer remember.v.02 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 bark.v.04 Agent -1 Patient +1 tree.n.01 NEGATION <1 time.n.08 EQU now kill.v.01 Agent -3 Time -1 Patient +1 entity.n.01 ANA -5
+cool.a.01 AttributeOf +1 water.n.02 refresh.v.03 Stimulus -1 Time +1 Experiencer +2 time.n.08 TPR now person.n.01 Sub speaker
+escaped.a.01 AttributeOf +1 person.n.01 Role +1 convict.n.01 take.v.09 Theme -2 Time +1 Destination +2 time.n.08 TPR now hill.n.01
+female.n.02 draw.v.06 Agent -1 Time +1 Theme +2 Source +3 time.n.08 TPR now water.n.06 barrel.n.01
+function.n.01 order.v.02 Agent -1 Time +1 Theme +2 Manner +3 time.n.08 TPR now string.n.01 alphabetically.r.01
+male.n.02 Name "Peter" time.n.08 TPR now cramble.v.02 Agent -2 Time -1 Theme +2 midterm.a.01 AttributeOf +1 exam.n.01
+boy.n.01 cram.v.04 Agent -1 Time +1 Theme +3 Destination +4 time.n.08 TPR now male.n.02 clothes.n.01 User -1 bag.n.01
+male.n.02 Name "F Fischer" challenge.v.02 Agent -1 Time +1 Theme +2 Co-Theme +3 time.n.08 TPR now male.n.02 Name "Spassky" match.n.01
+male.n.02 Name "Nick" need.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now moderate.v.02 Agent -3 Patient +2 male.n.02 ANA -4 alcohol.n.01 intake.n.01 Creator -1
+person.n.01 Role +1 policeman.n.01 book.v.02 Agent -2 Time +1 Theme +2 time.n.08 TPR now female.n.02 EXPLANATION <1 female.n.02 ANA -1 try.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now solicit.v.03 Agent -3 Theme +1 man.n.01
+person.n.01 Role +1 murderer.n.01 time.n.08 TPR now hang.v.06 Theme -3 Time -1 Time +1 time.n.08 DayOfWeek friday
+female.n.02 hobble.v.01 Agent -1 Time +1 Location +2 time.n.08 TPR now horse.n.01 CONTINUATION <1 entity.n.01 ANA -4 freak_out.v.01 Experiencer -1 Time +1 time.n.08 TPR now
+person.n.01 Role +1 taxi_driver.n.01 honk.v.02 Agent -2 Time +1 Theme +2 time.n.08 TPR now horn.n.09
+moon.n.01 time.n.08 EQU now wax.v.01 Patient -2 Time -1
+famous.a.01 AttributeOf +2 person.n.01 Role +1 golf_player.n.01 completely.r.01 miss.v.07 Agent -4 Time +1 Theme +2 time.n.08 TPR now green.a.01 ColourOf -5
+male.n.02 have.v.02 Pivot -1 Time +1 Theme +4 time.n.08 EQU now very.r.01 dry.a.02 Degree -1 AttributeOf +1 sense_of_humor.n.01
+tidal.a.01 AttributeOf +1 person.n.01 Role +1 surge.n.01 threaten.v.02 Agent -2 Time +1 Topic +2 time.n.08 TPR now breach.v.03 Agent -4 Patient +1 flood_ barrier.n.01
+person.n.01 Role +1 hairdresser.n.01 NEGATION <1 NEGATION <1 offer.v.02 Agent -2 Time +1 Theme +3 Goal +4 time.n.08 TPR now quantity.n.01 EQU 16 wave.n.06 Quantity -1 CONJUNCTION <2 hairstyle.n.01 EQU -1
+male.n.02 Name "David" time.n.08 TPR now armed.a.01 Experiencer -2 Time -1 Stimulus +1 sling.n.02
+male.n.02 wear.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now sling.n.02 Beneficiary +3 male.n.02 ANA -4 broken.a.01 AttributeOf +1 arm.n.01 PartOf -2
+male.n.02 Name "Tetsushi" speak.v.03 Agent -1 Time +1 Theme +3 time.n.08 TPR now broken.a.03 AttributeOf +1 english.n.01
+person.n.01 Role +1 beautician.n.01 time.n.08 TPR now file.v.02 Agent -3 Time -1 Patient +2 female.n.02 Name "Frida" nail.n.01 PartOf -1
+china.n.02 time.n.08 TPR now display.v.01 Theme -2 Time -1 Location +2 special.a.04 AttributeOf +1 cabinet.n.01
+airplane.n.01 time.n.08 TPR now swan.v.01 Theme -2 Time -1 Location +1 mountain.n.01
+great.a.02 AttributeOf +1 enemy.n.02 Causer +1 plant.n.02 be.v.02 Theme -2 Time +1 Co-Theme +2 time.n.08 EQU now slug.n.01 destroy.v.01 Causer -1 Time +1 Patient +3 time.n.08 EQU now young.a.01 AttributeOf +1 growth.n.02
+male.n.02 Name "John" EQU +2 fanatic.a.01 AttributeOf +1 birdwatcher.n.01 time.n.08 TPR now delight.v.01 Recipient -3 Time -1 Theme +1 see.v.01 Experiencer -4 Stimulus +1 bullfinch.n.01
+suprised.a.01 AttributeOf +1 man.n.01 time.n.08 TPR now maule.v.01 Patient -2 Time -1 Agent +2 vicious.a.02 AttributeOf +1 animal.n.01
+vehicle.n.01 time.n.08 EQU now build.v.01 Product -2 Time -1 Product +2 rugged.a.01 AttributeOf +1 terrain.n.01
+entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now rather.r.04 sleazy.a.01 AttributeOf +1 attempt.n.01
+person.n.01 Role +1 suspect.n.01 time.n.08 TPR now time.n.08 TPR now tarr.v.02 Patient -3 Time -2 feather.v.01 Patient -4 Time -2 Agent -1 crowd.n.01
+immature.a.01 AttributeOf +1 sparrow.n.01 time.n.08 EQU now fear.v.01 Agent -2 Time -1
+knight.n.01 time.n.08 TPR now wear.v.01 Agent -2 Time -1 Theme +2 plumy.a.01 AttributeOf +1 helmet.n.01
+person.n.01 play.v.01 Agent -1 Time +1 Manner +2 time.n.08 TPR now fairly.r.01
+female.n.02 shoot.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now unfledged.a.01 AttributeOf +1 arrow.n.02
+furious.a.01 AttributeOf +1 man.n.01 give.v.01 Agent -1 Time +1 Recipient +3 Theme +5 time.n.08 TPR now uncontrollable.a.01 AttributeOf +1 dog.n.01 smart.a.01 AttributeOf +1 blow.n.01
+old.a.02 Value + person.n.01 Attribute -1 Role +1 gardener.n.01 have.v.12 Experiencer -2 Time +1 Stimulus +3 time.n.08 TPR now horny.a.01 AttributeOf +1 hand.n.01
+person.n.01 EQU speaker work.v.02 Agent -1 Time +1 Location +3 time.n.08 EQU now region.n.03 Name "egypt" bureaucratic.a.01 AttributeOf +1 office.n.01
+person.n.01 EQU speaker see.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now bird.n.01 Instrument +2 vivid.a.03 AttributeOf +1 plumage.n.01

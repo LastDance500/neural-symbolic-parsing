@@ -1,0 +1,20 @@
+male.n.02 Name "Peter" behaviour.n.01 Creator -1 NEGATION <1 time.n.08 TPR now acceptible.a.01 AttributeOf -2 Time -1
+person.n.01 EQU speaker accidentally.r.01 throw.v.01 Agent -2 Manner -1 Time +1 Theme +4 Destination +5 time.n.08 TPR now expensive.a.01 AttributeOf +1 knife.n.01 trash.n.01
+person.n.01 EQU speaker time.n.08 EQU now greatful.a.01 Experiencer -2 Time -1 Stimulus +2 person.n.01 EQU hearer help.n.01 Creator -1
+person.n.01 Role +1 writer.n.01 time.n.08 EQU now very.r.01 humorus.a.01 AttributeOf -3 Time -2 Degree -1
+country.n.02 Name "Antigua and Barbuda" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now independent.a.01 AttributeOf +1 country.n.02
+female.n.02 responde.v.01 Agent -1 Time +1 Manner +2 time.n.08 TPR now immediately.r.01
+flat.n.01 have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 TPR now minuscule.a.01 AttributeOf +1 kitchen.n.01
+male.n.02 Name "Richard" time.n.08 EQU now misschievious.a.01 AttributeOf -2 Time -1
+female.n.02 nervous.n.02 Creator -1 time.n.08 TPR now noticable.a.01 AttributeOf -2 Time -1
+earthquake.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 Location +4 time.n.08 EQU now frequent.a.01 AttributeOf +1 occurance.n.01 Context +1 province.n.01 Name "Groningen"
+person.n.01 sleep.v.01 Agent -1 Time +1 Location +3 time.n.08 EQU now seperate.a.01 AttributeOf +1 bed.n.01
+person.n.01 EQU speaker hate.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now flourescent.a.01 ColourOf +1 Colour.n.01
+person.n.01 Role +1 scientist.n.01 use.v.01 Agent -2 Time +1 Theme +3 Destination +4 time.n.08 TPR now plagerize.v.01 Theme +1 data.n.01 male.n.02 thesis.n.01 Creator -1
+suprised.a.01 AttributeOf +1 man.n.01 time.n.08 TPR now maule.v.01 Patient -2 Time -1 Agent +2 visious.a.01 AttributeOf +1 animal.n.01
+male.n.02 awful.a.01 AttributeOf +1 handwrite.n.01 Creator -2 NEGATION <1 time.n.08 TPR now readible.a.01 AttributeOf -2 Time -1
+female.n.02 be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now successfull.a.01 AttributeOf +2 person.n.01 Role +1 enterpreneur.n.01
+female.n.02 person.n.01 Role +1 grandparents.n.01 Of -2 time.n.08 EQU now bury.v.01 Theme -3 Time -1 Location +2 local.a.01 AttributeOf +1 cemetary.n.01
+person.n.01 EQU hearer dissapoint.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU speaker
+piece.n.01 have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now fast.a.02 Value + rythm.n.02 Attribute -1
+fatigue.n.01 sapp.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 strenght.n.01 PartOf -1

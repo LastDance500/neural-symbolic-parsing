@@ -1,0 +1,20 @@
+n0110110024zzzzzzzzzzzzzzz t12000 "Peter" n002101002zzzzzzzzzzzzzzzz t35000 -1 ¬ <1 n00220111zzzzzzzzzzzzzzzzz ≺ now a00200300zzzzzzzzzzzzzzzzz+ i10000 -2 t21000 -1
+n011011008zzzzzzzzzzzzzzzz = speaker r00220307zzzzzzzzzzzzzzzzz| v0000100013090zzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +3 t25120 +4 n00220111zzzzzzzzzzzzzzzzz ≺ now a00201510zzzzzzzzzzzzzzzzz+ i10000 +1 n011010000002100zzzzzzzzzz n0110100005032zzzzzzzzzzzz
+n011011008zzzzzzzzzzzzzzzz = speaker n00220111zzzzzzzzzzzzzzzzz = now a0025100zzzzzzzzzzzzzzzzzz+ t23210 -2 t21000 -1 r22210 +2 n011011008zzzzzzzzzzzzzzzz = hearer n0000101042zzzzzzzzzzzzzzz t35000 -1
+n011011008zzzzzzzzzzzzzzzz t30000 +1 n01101100040100zzzzzzzzzzz n00220111zzzzzzzzzzzzzzzzz = now r0010002102zzzzzzzzzzzzzzz| a00250500000zzzzzzzzzzzzzz+ i10000 -3 t21000 -2 t24100 -1
+n0110001201zzzzzzzzzzzzzzz t12000 "Antigua and Barbuda" v1003zzzzzzzzzzzzzzzzzzzzz t23100 -1 t21000 +1 t23120 +3 n00220111zzzzzzzzzzzzzzzzz = now a002101031400zzzzzzzzzzzzz+ i10000 +1 n0110001201zzzzzzzzzzzzzzz
+n0110110019zzzzzzzzzzzzzzz v002119001000101zzzzzzzzzz t22100 -1 t21000 +1 t24300 +2 n00220111zzzzzzzzzzzzzzzzz ≺ now r00220307zzzzzzzzzzzzzzzzz+
+n011010040010zzzzzzzzzzzzz v01000094zzzzzzzzzzzzzzzzz t23140 -1 t21000 +1 t23100 +3 n00220111zzzzzzzzzzzzzzzzz ≺ now a00220140zzzzzzzzzzzzzzzzz+ i10000 +1 n011010040121zzzzzzzzzzzzz
+n0110110024zzzzzzzzzzzzzzz t12000 "Richard" n00220111zzzzzzzzzzzzzzzzz = now a00200300zzzzzzzzzzzzzzzzz- i10000 -2 t21000 -1
+n0110110019zzzzzzzzzzzzzzz n002101002000zzzzzzzzzzzzz t35000 -1 n00220111zzzzzzzzzzzzzzzzz ≺ now a00210103130zzzzzzzzzzzzzz+ i10000 -2 t21000 -1
+n0141001201zzzzzzzzzzzzzzz v1003zzzzzzzzzzzzzzzzzzzzz t23100 -1 t21000 +1 t23120 +3 n00220111zzzzzzzzzzzzzzzzz = now a0022092000zzzzzzzzzzzzzzz+ i10000 +1 v0000223zzzzzzzzzzzzzzzzzz t23100 +1 n0110001205zzzzzzzzzzzzzzz t12000 "Groningen"
+n011011008zzzzzzzzzzzzzzzz v0110000230000zzzzzzzzzzzz t22100 -1 t21000 +1 t25100 +3 n00220111zzzzzzzzzzzzzzzzz = now a00202700zzzzzzzzzzzzzzzzz+ i10000 +1 n011010000700zzzzzzzzzzzzz
+n011011008zzzzzzzzzzzzzzzz = speaker v0021031200zzzzzzzzzzzzzzz t23210 -1 t21000 +1 r22210 +3 n00220111zzzzzzzzzzzzzzzzz = now a00220220001zzzzzzzzzzzzzz+ i14000 +1 n0110122020zzzzzzzzzzzzzzz
+n011011008zzzzzzzzzzzzzzzz t30000 +1 n01101100040100zzzzzzzzzzz v0000101142zzzzzzzzzzzzzzz t22100 -2 t21000 +1 t23100 +3 t24210 +5 n00220111zzzzzzzzzzzzzzzzz ≺ now a0021230zzzzzzzzzzzzzzzzzz+ i10000 +1 n003021600zzzzzzzzzzzzzzzz n0110110024zzzzzzzzzzzzzzz ≡ -4 n00010020zzzzzzzzzzzzzzzzz t35000 -1
+a002103003200zzzzzzzzzzzzz+ i10000 +1 n01101100240zzzzzzzzzzzzzz n00220111zzzzzzzzzzzzzzzzz ≺ now v00001000130001000000zzzzz t23200 -3 t21000 -1 t22100 +2 a00210300400zzzzzzzzzzzzzz+ i10000 +1 n01101101zzzzzzzzzzzzzzzzz
+n0110110024zzzzzzzzzzzzzzz a00200300zzzzzzzzzzzzzzzzz+ i10000 +1 n00302121zzzzzzzzzzzzzzzzz t35000 -2 ¬ <1 n00220111zzzzzzzzzzzzzzzzz ≺ now a00210103130zzzzzzzzzzzzzz+ i10000 -3 t21000 -1
+n0110110019zzzzzzzzzzzzzzz v108zzzzzzzzzzzzzzzzzzzzzz t23100 -1 t21000 +1 t23120 +3 n00220111zzzzzzzzzzzzzzzzz = now a00201510zzzzzzzzzzzzzzzzz+ i10000 +2 n011011008zzzzzzzzzzzzzzzz t30000 +1 n011011000500zzzzzzzzzzzzz
+n0110110019zzzzzzzzzzzzzzz n011011008zzzzzzzzzzzzzzzz t30000 +1 n011011001650000zzzzzzzzzz t31000 -2 n00220111zzzzzzzzzzzzzzzzz = now v0000100013000000zzzzzzzzz t23100 -3 t21000 -1 t25100 +2 a0022001zzzzzzzzzzzzzzzzzz+ i10000 +1 n0110100405050zzzzzzzzzzzz
+n011011008zzzzzzzzzzzzzzzz = hearer v0021031200zzzzzzzzzzzzzzz r22210 -1 t21000 +1 t23210 +2 n00220111zzzzzzzzzzzzzzzzz ≺ now n011011008zzzzzzzzzzzzzzzz = speaker
+n0110100311zzzzzzzzzzzzzzz v01000094zzzzzzzzzzzzzzzzz t23140 -1 t21000 +1 t23100 +3 n00220111zzzzzzzzzzzzzzzzz = now a00220140zzzzzzzzzzzzzzzzz+ i10000 +1 n0000101020000zzzzzzzzzzzz
+n0021010020000zzzzzzzzzzzz v00001000130000000zzzzzzzz t22200 -1 t21000 +1 t23200 +3 n00220111zzzzzzzzzzzzzzzzz ≺ now n0110110024zzzzzzzzzzzzzzz n000130000zzzzzzzzzzzzzzzz t35000 -1

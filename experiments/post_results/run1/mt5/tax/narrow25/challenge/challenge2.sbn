@@ -1,0 +1,129 @@
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAADzzzzzzzzzzzzzzz = speaker nABBBAABABAAAzzzzzzzzzzz t33000 -1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz nABBABABAAzzzzzzzzzzzzzz t12000 "The Bay"
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Sylvia" vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBBABAABABDAzzzzzzzzz t33000 -1 nABBABABAAzzzzzzzzzzzzzz t12000 "Sylvia"
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Scott Joplin" vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBBABAABABDAzzzzzzzzz t33000 -1
+nABBBBAAATzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBBABAABABDAzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "John" nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDABAAAEzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBAADzzzzzzzzzzzzzzz = speaker
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBAEEBBAzzzzzzzzzzzzzz t33000 -1
+nABBBBAAATzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz = now aAACBABCBAzzzzzzzzzzzzzz+ t23210 -2 t21000 -1 r22210 +1 nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBBABAABABDAzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAJAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBABAABABDAzzzzzzzzz
+nAADCBGAAzzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz = now aAACBABCBAzzzzzzzzzzzzzz+ t23210 -2 t21000 -1 r22210 +1 nAADDAADABzzzzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBAEEBBAzzzzzzzzzzzzzz nABBBAEEBBAzzzzzzzzzzzzzz t33000 -1
+nABBBBAAATzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBABAABABDAzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz t33000 -1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBABAABABDAzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAEABAzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBAEBCzzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz = now vAAAABAABDAJAzzzzzzzzzzzz t23100 -2 t21000 -1 t25120 +1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Tom" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz nABBBBAAATzzzzzzzzzzzzzz t12000 "Detective" nABBBAABABAAAzzzzzzzzzzz
+nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz vAAAABAABDAAzzzzzzzzzzzz t22100 -2 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBABAABABDAzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz t33000 -1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBABAABABDAzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz t33000 -1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABAAADBzzzzzzzzzzzzzzzz i43000 -1
+nABBBBAAATzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBABAABABDAzzzzzzzzz nABBBBABAABABDAzzzzzzzzz nABBBBABAABABDAzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBABAABABDAzzzzzzzzz nABBAzzzzzzzzzzzzzzzzzzz t12000 "Sea" nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBBABAABABDAzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBBABAABABDAzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t21000 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz t21220 10:00
+nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -2 t21000 +1 t23100 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAJAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAJAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Harrier" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz = now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBAABAABAzzzzzzzzzz i43000 -1
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAAAABAABDABAAAEzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAAAABAABDABAAAzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t23100 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nAADCBGAAzzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Tom" nAACCBBBzzzzzzzzzzzzzzzz = now aAACBABCBAzzzzzzzzzzzzzz+ t23210 -2 t21000 -1 r22210 +1 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Tom" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAADzzzzzzzzzzzzzzz = speaker nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2
+nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz vAAAABAABDAAzzzzzzzzzzzz t22100 -2 t21000 +1 t23100 +2 nAACCBBBzzzzzzzzzzzzzzzz = now nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz
+nABBBBABAABABDAzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBABAABABDAzzzzzzzzz nABBABABAAzzzzzzzzzzzzzz t12000 "Mangaluru" nABBBAABABAAAzzzzzzzzzzz t33000 -1
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAAAABAABDABAAAzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nAAEzzzzzzzzzzzzzzzzzzzz = 1 nAAEzzzzzzzzzzzzzzzzzzzz = 1 nAAEAACKAzzzzzzzzzzzzzzz t11000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nAAEzzzzzzzzzzzzzzzzzzzz = 300 nAAEAACKAzzzzzzzzzzzzzzz t11000 -1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBABAABABDAzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Queen" vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nAAFAAGCzzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDABAAAzzzzzzzzz t23100 -2 t21000 -1 t25120 +1 nABBABCABzzzzzzzzzzzzzzz t12000 "navy" nABBBBABAABABDAzzzzzzzzz t12000 "Air Force"
+nABBBBAAATzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBAADzzzzzzzzzzzzzzz = speaker
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAAAABAABDABAAAzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABAAADBzzzzzzzzzzzzzzzz i43000 -1
+nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz vAAAABAABDAAzzzzzzzzzzzz t22100 -2 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz = now nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBBABAABABDAzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nAAEzzzzzzzzzzzzzzzzzzzz = 2 nAAEAACKAzzzzzzzzzzzzzzz t11000 -1
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAAAABAABDABAAAzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAADzzzzzzzzzzzzzzz = speaker nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Tom" vAAAABAABDABAAAzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2
+nABBBBAADzzzzzzzzzzzzzzz = hearer vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t21000 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAAEzzzzzzzzzzzzzzzzzzzz = 1 nAAEzzzzzzzzzzzzzzzzzzzz = 30 nAAEBABzzzzzzzzzzzzzzzzz t11000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Spain" vAAAABAABDABAAAEzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBABCABzzzzzzzzzzzzzzz t12000 "Spain" nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t23400 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBABAABABDAzzzzzzzzz vBAABzzzzzzzzzzzzzzzzzzz t23100 -1 t21000 +1 t23120 +3 nAACCBBBzzzzzzzzzzzzzzzz = now aAACBADAEAAzzzzzzzzzzzzz+ i10000 +1 nABBBBABAABABDAzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Rick Wakeman" vAAAABAABDABAAAzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBAEEBBAzzzzzzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Picasso" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz t33000 -1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 " Zola Budd" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t21000 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz t21220 09:00
+nABBABABAAzzzzzzzzzzzzzz t12000 "New York" vBAHzzzzzzzzzzzzzzzzzzzz t23100 -1 t21000 +1 t25100 +2 nAACCBBBzzzzzzzzzzzzzzzz = now nABBABABAAzzzzzzzzzzzzzz t12000 "New York"
+nABBBBAAAYzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAJAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBBABAABABDAzzzzzzzzz t33000 -1
+nABBBBAADzzzzzzzzzzzzzzz = hearer nAACCBBBzzzzzzzzzzzzzzzz = now aAACBABCBAzzzzzzzzzzzzzz+ t23210 -2 t21000 -1 r22210 +1 nABBBBAADzzzzzzzzzzzzzzz = hearer
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBABAABABDAzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz t33000 -1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Tom" ¬ <1 nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDABAAAzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBABAABABDAzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Tita" vAAAABAABDAADAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABCCACDzzzzzzzzzzzzzzz nABCCACDzzzzzzzzzzzzzzzz nABCCACDzzzzzzzzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Jennifer" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz t33000 -1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +3 t25120 +4 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBAEEBBAzzzzzzzzzzzzzz i43000 -1 nABBBAEEBBAzzzzzzzzzzzzzz i43000 -1
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Roger Federer" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBABABAAzzzzzzzzzzzzzz t12000 "Ferer" nABBBBABAABABDAzzzzzzzzz t12000 "Roger Federer"
+nABBBBAAAYzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDABAAAzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 +1 nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz t12000 "Patricia" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz vAAAABAABDAAzzzzzzzzzzzz t22100 -2 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz nABBBAABAABAzzzzzzzzzz
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAAAABAABDABAAAEzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAADzzzzzzzzzzzzzzz = speaker nABBBAABABAAAzzzzzzzzzzz t33000 -1
+nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABKAAFAzzzzzzzzzzzzz t23200 -3 t21000 -1 t25100 +1 nABBABCABzzzzzzzzzzzzzzz t12000 "America"
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABCCACDzzzzzzzzzzzzzzzz nABCCABAAAzzzzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Wood" vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t21000 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAAEzzzzzzzzzzzzzzzzzzzz = 16 nAAEzzzzzzzzzzzzzzzzzzzz = 16 nAAEBABzzzzzzzzzzzzzzzzz t11000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABCCACDzzzzzzzzzzzzzzz nABCCACDzzzzzzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Hawker" nAACCBBBzzzzzzzzzzzzzzzz = now vAAAABAABDAJAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz t33000 -1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Tom" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABCCACDzzzzzzzzzzzzzzzz nABCCABAAAzzzzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Magnus" vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Tomino" nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAJAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 t21000 +2 nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz t21210 = +1 nAACCBBBzzzzzzzzzzzzzzzz t21210 19 = +1 nAACCBBBzzzzzzzzzzzzzzzz t21210 19 = +1 nAACCBBBzzzzzzzzzzzzzzzz t21210 19
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBBABAABABDAzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBABAABABDAzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz vAAAABAABDAAzzzzzzzzzzzz t22100 -2 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz nABBAzzzzzzzzzzzzzzzzzzz  now nABBBBABAABABDAzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBAABABAAAzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABKAAFAzzzzzzzzzzzzz t23200 -2 t21000 -1 t25100 +1 nAAEzzzzzzzzzzzzzzzzzzzz = 3 nAAEBABzzzzzzzzzzzzzzzzz t11000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Fossky" vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Nick" vAAAABAABDABAAAzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABCCACDzzzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz t33000 -1
+nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz vAAAABAABDAAzzzzzzzzzzzz t22100 -2 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAJAzzzzzzzzzzzz t23200 -2 t21000 -1 t21000 +1 t21000 +2 nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz  now nAACCBBBzzzzzzzzzzzzzzzz t21220 07:00
+nABBBBAAATzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBABAABABDAzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz t33000 -1
+nABBBBABAABABDAzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz = now vAAAABAABDAJAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBABAABABDAzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz = now aAACBABCBAzzzzzzzzzzzzzz+ t23210 -2 t21000 -1 r22210 +1 nAADDAADABzzzzzzzzzzzzzz
+nABBBBABAABABDAzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBABAABABDAzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nAAEzzzzzzzzzzzzzzzzzzzz = 16 nAAEAACKAzzzzzzzzzzzzzzz t11000 -1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "David" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAATzzzzzzzzzzzzzz nABBBAABABAAAzzzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBAEEBBAzzzzzzzzzzzzzz i43000 -1
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "Tatsuya" vAAAABAABDABAAAzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nAADDAADAAzzzzzzzzzzzzzzz nAADDAADABzzzzzzzzzzzzzz
+nABBBBAAATzzzzzzzzzzzzzz t12000 "Frida" nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAJAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz t33000 -1
+nABBBBAAATzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBABAABABDAzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t25100 +2 nAACCBBBzzzzzzzzzzzzzzzz  now nABBABABAAzzzzzzzzzzzzzz t12000 "Mount"
+nABBBBABAABABDAzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz = now nABBBBABAABABDAzzzzzzzzz nABBBBABAABABDAzzzzzzzzz nAzzzzzzzzzzzzzzzzzzzzzz t33000 -1 nABBBAABABAAAzzzzzzzzzzz
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "John" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2
+nABBBBAAAYzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDABAAAzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz
+nABBBBABAABABDAzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz = now vAAAABAABDAJAzzzzzzzzzzzz t23100 -2 t21000 -1 t25120 +1 nABBBAABABAAAzzzzzzzzzzz
+nAzzzzzzzzzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz = now aAACBABCBAzzzzzzzzzzzzzz+ t23210 -2 t21000 -1 r22210 +1 nABBBBAADzzzzzzzzzzzzzzz = speaker
+nABBBBAAAYzzzzzzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz  now vAAAABAABDAAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz
+nABBBBABAABABDAzzzzzzzzz nAACCBBBzzzzzzzzzzzzzzzz = now vAAAABAABDAJAzzzzzzzzzzzz t22100 -2 t21000 -1 t23100 +1 nABBBBAADzzzzzzzzzzzzzzz = speaker
+nABBBBAAAYzzzzzzzzzzzzzz t12000 "knight" vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +3 nAACCBBBzzzzzzzzzzzzzzzz  now aAACBADAEAAzzzzzzzzzzzzzz+ i10000 +1 nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz t33000 -2
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBAABABAAAzzzzzzzzzzz t33000 -1
+nABBBBAAAYzzzzzzzzzzzzzz vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz ≡ -3 nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2
+nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz vAAAABAABDAJAzzzzzzzzzzzz t22100 -2 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAAAYzzzzzzzzzzzzzz nABBBBABAABABDAzzzzzzzzz t33000 -1
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAAAABAABDABAAAEzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAADzzzzzzzzzzzzzzz = speaker nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2
+nABBBBAADzzzzzzzzzzzzzzz = speaker vAAAABAABDAAzzzzzzzzzzzz t22100 -1 t21000 +1 t23100 +2 t25120 +3 nAACCBBBzzzzzzzzzzzzzzzz  now nABBBBAADzzzzzzzzzzzzzzz = speaker nABBBBAADzzzzzzzzzzzzzzz = speaker nABBBBAADzzzzzzzzzzzzzzz t30000 +1 nABBBBAAAQFAAAAzzzzzzzzz t31000 -2

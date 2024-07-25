@@ -1,0 +1,1195 @@
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +1 person.n.01 EQU hearer
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU hearer put.v.01 Agent -1 Theme +1 Destination +2 person.n.01 EQU hearer station.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 location.n.01 EQU ? male.n.02 Name "Frederik" be.v.03 Location -2 Theme -1 Time +1 time.n.08 EQU now
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+female.n.02 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now female.n.02 ANA -3 person.n.01 Role +1 husband.n.01 Of -2
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU hearer person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01 Quantity + EQU +1 money.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01 Quantity + EQU +1 money.n.01
+female.n.02 Name "Mary" name.v.01 Agent -1 Time +1 Theme +3 Result +4 time.n.08 TPR now female.n.02 ANA -3 dog.n.01 Owner -1 name.n.01 EQU "Rex"
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 person.n.01 Role +1 son.n.01 Of -2 table.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico"
+male.n.02 Name "Tom" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU hearer have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01
+female.n.02 reply.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 female.n.02 ANA -3 steal.v.01 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shirt.n.01 User -1
+male.n.02 Name "Tom" take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shoe.n.01 User -1
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Tom" name.v.01 Agent -1 Time +1 Theme +3 Result +4 time.n.08 TPR now male.n.02 ANA -3 dog.n.01 Owner -1 name.n.01 EQU "Cookie"
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +2 time.n.08 TPR now dog.n.01 bite.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU speaker
+female.n.02 Name "Mary" name.v.01 Agent -1 Time +1 Theme +3 Result +4 time.n.08 TPR now female.n.02 ANA -3 dog.n.01 Owner -1 name.n.01 EQU "Rex"
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 location.n.01 EQU ? male.n.02 Name "Tom" be.v.03 Location -2 Theme -1 Time +1 time.n.08 EQU now
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 mistake.n.01 Creator -1
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+person.n.01 EQU hearer be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 friend.n.01 Of +1 person.n.01 EQU hearer
+male.n.02 person.n.01 Role +1 father.n.01 Of -2 teach.v.01 Agent -2 Time +1 Recipient +2 Theme +3 time.n.08 EQU now person.n.01 EQU speaker english.n.01
+male.n.02 reply.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 male.n.02 ANA -3 steal.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+male.n.02 get_into.v.02 Theme -1 Time +1 Destination +3 time.n.08 TPR now male.n.02 ANA -3 room.n.01 User -1
+person.n.01 EQU hearer time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 TAB now time.n.08 TAB -1
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 person.n.01 Role +1 son.n.01 Of -2 female.n.02 Name "Marie"
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+person.n.01 EQU hearer time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01 CONSEQUENCE <1 person.n.01 EQU hearer POSSIBILITY <1 drink.v.01 Agent -1 Patient +1 apple.n.01
+male.n.02 wipe.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now female.n.02 leg.n.01 PartOf -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +2 time.n.08 TPR now dog.n.01 bite.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -4 leg.n.01 PartOf -1
+person.n.01 EQU hearer have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+male.n.02 Name "Tom" take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shirt.n.01 User -1
+male.n.02 Name "Tom" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 Name "Mary" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +1 person.n.01 EQU hearer
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 tear.n.01 Creator -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "Tom" name.n.01 EQU "John"
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 location.n.01 EQU ? male.n.02 Name "Tom" be.v.03 Location -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker name.n.01 EQU "Multi"
+male.n.02 put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now female.n.02 ANA -3 person.n.01 Role +1 son.n.01 Of -2 female.n.02 ANA -5
+female.n.02 Name "Mary" name.v.01 Agent -1 Time +1 Theme +3 Result +4 time.n.08 TPR now female.n.02 ANA -3 dog.n.01 Owner -1 name.n.01 EQU "Rex"
+female.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 female.n.02 ANA -3 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker coat.n.01 User -1
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +3 male.n.02 ANA -3 quantity.n.01 EQU 3 year.n.01 Quantity -1
+female.n.02 Name "Mary" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Recipient +2 time.n.08 EQU now person.n.01 EQU hearer CONSEQUENCE <1 person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now like.v.02 Experiencer -2 Time -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +3 time.n.08 EQU now milk.n.01 fridge.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 coat.n.01 User -1 quantity.n.01 EQU 3 year.n.01 Quantity -1
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+person.n.01 Name ? book.n.02 User -1 have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + book.n.02 Attribute -1
+person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 name.v.01 Agent -2 Time +1 Theme +3 Result +4 time.n.08 EQU now name.n.01 EQU "Multi" name.n.01 EQU "Multi"
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+female.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico" CONTINUATION <1 female.n.02 ANA -4 laugh.v.01 Agent -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Tom" entity.n.01 Sub -1 Sub +1 female.n.02 Name "Mary" play.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now chess.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+female.n.02 Name "Mary" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now long.a.02 Value + body.n.01 Attribute -1
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +3 male.n.02 ANA -3 quantity.n.01 EQU 3 year.n.01 Quantity -1
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Tom" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Tom" be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "Tom" entity.n.01 User -1 Sub +1 female.n.02 Name "Mary"
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 pretty.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 famous.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+person.n.01 EQU hearer time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01 CONSEQUENCE <1 person.n.01 EQU hearer POSSIBILITY <1 drink.v.01 Agent -1 Patient +1 apple.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer put.v.01 Agent -1 Theme +1 Destination +2 person.n.01 EQU hearer station.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+female.n.02 Name "Mary" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now long.a.02 Value + body.n.01 Attribute -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 room.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 food.n.01 Creator -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Tom" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 InstanceOf +1 EQU ? camera.n.01 time.n.08 TPR now person.n.01 EQU hearer have.v.01 Pivot -4 Time -2 Theme -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 InstanceOf +1 EQU ? camera.n.01 time.n.08 TPR now person.n.01 EQU hearer have.v.01 Pivot -4 Time -2 Theme -1
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01 CONTINUATION <0 location.n.01 EQU ? person.n.01 EQU hearer be.v.03 Location -2 Theme +1 entity.n.01 ANA -7
+person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now bank.n.02
+male.n.02 NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 person.n.01 Role +1 son.n.01 Of -2 table.n.02
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Mary"
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 Name "Tom" name.v.01 Agent -1 Time +1 Theme +3 Result +4 time.n.08 TPR now male.n.02 ANA -3 dog.n.01 Owner -1 name.n.01 EQU "Tom"
+person.n.01 EQU hearer time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01 CONSEQUENCE <1 person.n.01 EQU hearer POSSIBILITY <1 time.n.08 EQU now hungry.a.01 Experiencer -2 Time -1
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU speaker steal.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+male.n.02 NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 liar.n.01
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shirt.n.01 User -1
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now wonderful.a.01 AttributeOf +1 mistake.n.01
+male.n.02 Name "Tom" be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "Tom" dog.n.01 Owner -1
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 person.n.01 Role +1 son.n.01 Of -2 table.n.02
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU speaker nose.n.01 PartOf -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 son.n.01 Of -2
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Tom" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+female.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +3 male.n.02 ANA -3 quantity.n.01 EQU 3 year.n.01 Quantity -1
+country.n.02 Name "Germany" time.n.08 EQU now located.a.01 Theme -2 Time -1 Location +1 continent.n.01 Name "Africa"
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU hearer want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 Quantity + EQU +1 money.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 person.n.01 Role +1 son.n.01 Of -2 female.n.02 Name "Mary"
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 mistake.n.01 Creator -1
+male.n.02 Name "Tom" take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shirt.n.01 User -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 TAB now time.n.08 TAB -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU hearer person.n.01 Role +1 father.n.01 Of -2
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 Name "Darwin" car.n.01 User -1
+person.n.01 EQU hearer be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now entity.n.01 InstanceOf +1 person.n.01 EQU hearer
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+male.n.02 Name "Tom" time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 food.n.01 Creator -1
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 EQU now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+female.n.02 Name "Holy" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 fast.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "St. John"
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU hearer person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 location.n.01 EQU ? male.n.02 Name "Tom" be.v.03 Location -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+male.n.02 Name "Tom" time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 food.n.01 Creator -1
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Recipient +2 time.n.08 TPR now person.n.01 EQU hearer CONSEQUENCE <1 person.n.01 EQU speaker time.n.08 TSU now travel.v.01 Theme -2 Time -1
+person.n.01 EQU speaker time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker coat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Recipient +2 time.n.08 EQU now person.n.01 EQU hearer CONSEQUENCE <1 person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now like.v.02 Experiencer -2 Time -1 Stimulus +1 entity.n.01
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 3 apple.n.01 Quantity -1
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 mistake.n.01 Creator -1
+female.n.02 time.n.08 EQU now quantity.n.01 Quantity + tall.a.01 AttributeOf -3 Time -2 Degree +1 more.r.01 Theme -4 Value -2 Co-Theme +1 person.n.01 EQU speaker
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+male.n.02 time.n.08 TPR now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 tear.n.01 Creator -1
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 famous.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+male.n.02 eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 apple.n.01 Consumer -1
+male.n.02 NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+male.n.02 reply.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 male.n.02 ANA -3 steal.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -7 pen.n.01 User -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 teach.v.01 Agent -2 Time +1 Recipient +2 Theme +3 time.n.08 EQU now person.n.01 EQU speaker english.n.01
+male.n.02 have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 coat.n.01 User -1 quantity.n.01 EQU 3 year.n.01 Quantity -1
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 long.a.02 Degree -1 Value + AttributeOf +1 male.n.02 Name "Tom"
+person.n.01 Name ? book.n.02 User -1 have.v.02 Pivot -1 Time +1 Theme +2 time.n.08 EQU now name.n.01 EQU "Sumal"
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 food.n.01 Creator -1
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker mother_tongue.n.01 Creator -1
+person.n.01 Role +1 terrorist.n.01 detonate.v.01 Agent -2 Time +1 Patient +2 time.n.08 TPR now bus.n.01
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 Name "Darwin" theory_of_evolution.n.01 Creator -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Tom" entity.n.01 Sub -1 Sub +1 female.n.02 Name "Mary" NEGATION <1 time.n.08 EQU now play.v.01 Agent -3 Time -1 Theme +1 chess.n.02
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 mistake.n.01 Creator -1
+male.n.02 time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU speaker
+male.n.02 get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 Name "Tom" car.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+male.n.02 eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 coffee.n.01 Consumer -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU hearer person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 EQU now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 Name "Tom" time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 food.n.01 Creator -1
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 start.v.01 Time +1 PartOf +2 time.n.08 TPR now laugh.v.01 Agent -3
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 3 year.n.01 Quantity -1
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 location.n.01 EQU ? male.n.02 Name "Frederik" be.v.03 Location -2 Theme -1 Time +1 time.n.08 EQU now
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+male.n.02 wipe.v.01 Agent -1 Time +1 Theme +2 Source +4 time.n.08 TPR now tear.n.01 male.n.02 ANA -4 cheek.n.01 PartOf -1
+female.n.02 Name "Mary" be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now female.n.02 ANA -3 person.n.01 Role +1 husband.n.01 Of -2
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +1 person.n.01 EQU hearer
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now kill.v.01 Agent -3 Patient +1 frozen_food.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 TAB now time.n.08 TAB -1
+female.n.02 Name "Mary" name.v.01 Agent -1 Time +1 Theme +3 Result +4 time.n.08 TPR now female.n.02 ANA -3 dog.n.01 Owner -1 name.n.01 EQU "Rex"
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+female.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+female.n.02 Name "Mary" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+male.n.02 Name "Tom" take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now female.n.02 Name "Mary" pen.n.01 User -1
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 TAB now time.n.08 TAB -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+person.n.01 EQU hearer time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie" Creator -1
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 leg.n.01 PartOf -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 Quantity + EQU +1 money.n.01
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now kill.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 time.n.08 TPR now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 tear.n.01 Creator -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 1000 yen.n.02 Quantity -1
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 write.v.01 Time -4 Agent -3 Duration -1 Result +1 book.n.01
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 EQU "Multi"
+male.n.02 Name "Tom" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now male.n.02 Name "Tom" CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 EQU now
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 mistake.n.01 Creator -1
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 Role +1 terrorist.n.01 detonate.v.01 Agent -2 Time +1 Patient +2 time.n.08 TPR now person.n.01 Role +1 terrorist.n.01
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 food.n.01 Creator -1
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+male.n.02 wipe.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 leg.n.01 PartOf -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 EQU "Multi"
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Tom" take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shoe.n.01 User -1
+person.n.01 EQU speaker time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Barcelona" time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +1 person.n.01 EQU hearer
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 location.n.01 EQU ? male.n.02 Name "Frederik" be.v.03 Location -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+female.n.02 Name "Holy" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+country.n.02 Name "Germany" time.n.08 EQU now name.v.01 Theme -2 Time -1 Result +1 Context +2 name.n.01 EQU "Deutschland" arabic.n.01
+female.n.02 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 liar.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 beer.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU hearer want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now kill.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 fast.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+entity.n.01 InstanceOf +1 EQU ? male.n.02 Name "Howard Caine" name.v.01 Agent -4 Time +1 Theme +3 Result +4 time.n.08 TPR now male.n.02 ANA -6 name.n.01 Bearer -1 name.n.01 EQU "Multi"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 location.n.01 EQU ? male.n.02 Name "Frederik" be.v.03 Location -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 mistake.n.01 Creator -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 location.n.01 EQU ? male.n.02 Name "Tom" be.v.03 Location -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+female.n.02 Name "Mary" play.v.03 Agent -1 Time +1 Theme +3 time.n.08 TPR now female.n.02 ANA -3 pen.n.01 User -1
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 EQU now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+male.n.02 Name "Tom" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 Name "Lady of the Sea" time.n.08 EQU now wear.v.01 Agent -2 Time -1 Theme +2 Manner +3 female.n.02 ANA -3 shirt.n.01 User -1 inside_out.r.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now crowd.n.01
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +4 time.n.08 TPR now male.n.02 ANA -3 tear.n.01 Creator -1 table.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU hearer want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now kill.v.01 Agent -3 Patient +1 frozen_food.n.01
+entity.n.01 InstanceOf +1 EQU ? male.n.02 Name "Howard Caine" name.v.01 Agent -4 Time +1 Theme +2 time.n.08 TPR now name.n.01 EQU "Howard Caine"
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 EQU now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+male.n.02 wipe.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 leg.n.01 PartOf -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 6 dog.n.01 Quantity -1
+person.n.01 EQU hearer time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01 CONSEQUENCE <1 person.n.01 EQU hearer POSSIBILITY <1 time.n.08 EQU now drink.v.01 Agent -2 Time -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01 CONSEQUENCE <1 person.n.01 EQU hearer POSSIBILITY <1 time.n.08 EQU now drink.v.01 Agent -2 Time -1
+male.n.02 reply.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 male.n.02 ANA -3 steal.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now male.n.02 ANA -7
+male.n.02 Name "Tom" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+person.n.01 EQU speaker time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 AttributeOf -4 Time -3 Degree +1 more.r.01 Theme -5 Value -2 Co-Theme +1 male.n.02
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 mistake.n.01 Creator -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now location.n.01 APX +1 school.n.02
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +3 time.n.08 TPR now male.n.02 ANA -3 room.n.01 User -1
+female.n.02 Name "Lady of the Sea" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 female.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+entity.n.01 InstanceOf +1 EQU ? camera.n.01 time.n.08 TPR now person.n.01 EQU hearer have.v.01 Pivot -4 Time -2 Theme -1
+person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 name.v.01 Agent -2 Time +1 Theme +3 Result +4 time.n.08 TPR now name.n.01 EQU "Multi" name.n.01 EQU "Multi"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 list.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 location.n.01 EQU ? male.n.02 Name "Tom" be.v.03 Location -2 Theme -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU hearer want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 Quantity + EQU +1 money.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker name.n.01 EQU "Multi"
+male.n.02 Name "Tom" time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 food.n.01 Creator -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now female.n.02 Name "Kate" breakfast.n.01 Creator -1
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+female.n.02 time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 state.n.01 EQU +1 state.n.01 EQU +1 male.n.02 Name "Hemingway"
+female.n.02 Name "Mary" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now long.a.02 Value + body.n.01 Attribute -1
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU hearer want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+entity.n.01 InstanceOf +1 EQU ? camera.n.01 time.n.08 TPR now person.n.01 EQU hearer have.v.01 Pivot -4 Time -2 Theme -1
+person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01 CONSEQUENCE <1 person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now drink.v.01 Agent -2 Time -1 Patient +1 apple.n.01
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 60 quid.n.01 Quantity -1
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 Name "Darwin" car.n.01 User -1
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 Name "Mayuko" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+female.n.02 wipe.v.01 Agent -1 Time +1 Theme +2 Source +4 time.n.08 TPR now tear.n.01 female.n.02 ANA -4 leg.n.01 PartOf -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shirt.n.01 User -1
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 Name "Tom" take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shirt.n.01 User -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Tom" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Boston" time.n.08 YearOfCentury 1946
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+female.n.02 NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4
+male.n.02 Name "Tom" be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "Tom" entity.n.01 User -1 Sub +1 female.n.02 Name "Mary"
+female.n.02 Name "Holy" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 write.v.01 Time -4 Agent -3 Duration -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 3 apple.n.01 Quantity -1
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 TPR now crowd.n.01
+person.n.01 EQU speaker time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Barcelona" time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU speaker nose.n.01 PartOf -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 Name "Tom" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Boston" time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+person.n.01 EQU speaker time.n.08 EQU now wear.v.01 Agent -2 Time -1 Theme +2 Manner +3 person.n.01 EQU hearer shirt.n.01 User -1 inside_out.r.01
+male.n.02 time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 Name "Tom" diary.n.01 Creator -1
+female.n.02 have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Tom" time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 food.n.01 Creator -1
+person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 pretty.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +4 time.n.08 TPR now person.n.01 Role +1 physician.n.01 dog.n.01 Owner -2
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 planet.n.03
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 EQU now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +1 person.n.01 EQU hearer
+male.n.02 time.n.08 TPR now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 mistake.n.01 Creator -1
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 TPR now male.n.02 ANA -2 wallet.n.01 User -1 steal.v.01 Beneficiary -4 Time -3 Theme -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Recipient +2 time.n.08 EQU now person.n.01 EQU hearer CONSEQUENCE <1 person.n.01 EQU hearer POSSIBILITY <1 eat.v.01 Agent -1 Patient +1 apple.n.01
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +3 time.n.08 TPR now male.n.02 ANA -3 room.n.01 User -1
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now drink.v.01 Agent -3 Patient +1 beer.n.01 CONTRAST <1 entity.n.01 EQU -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker mistake.n.01 Creator -1
+male.n.02 Name "Tom" take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shoe.n.01 User -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 MOR +1 quantity.n.01 EQU 90 year.n.01 Quantity -2 old.a.01 Theme -5 Time -4 Value -1
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU hearer name.n.01 EQU "you" name.n.01 EQU "you" CONTRAST <1 person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 ANA -7
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU speaker nose.n.01 PartOf -1
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 EQU speaker time.n.08 EQU now wear.v.01 Agent -2 Time -1 Theme +2 Manner +3 person.n.01 EQU hearer shirt.n.01 User -1 inside_out.r.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01 Quantity + EQU +1 money.n.01
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+female.n.02 time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 beer.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now crowd.n.01
+female.n.02 Name "Mayuko" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Tom" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 friend.n.01 Of +1 person.n.01 EQU speaker
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+female.n.02 Name "Mary" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now female.n.02 Name "Kate" CONTINUATION <1 female.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 son.n.01 Of -2
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 60 quid.n.01 Quantity -1
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 famous.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 Duration +4 time.n.08 TPR now country.n.02 Name "England" quantity.n.01 EQU 3 year.n.01 Quantity -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+male.n.02 Name "Tom" name.v.01 Agent -1 Time +1 Theme +3 Result +4 time.n.08 TPR now male.n.02 ANA -3 dog.n.01 Owner -1 name.n.01 EQU "Cookie"
+female.n.02 wipe.v.01 Agent -1 Time +1 Theme +2 Source +4 time.n.08 TPR now tear.n.01 female.n.02 ANA -4 leg.n.01 PartOf -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico"
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+female.n.02 wipe.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU speaker name.n.01 EQU "Multi"
+male.n.02 Name "Tom" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 Name "Tom" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 TPR now crowd.n.01
+female.n.02 Name "Holy" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +3 male.n.02 ANA -3 quantity.n.01 EQU 3 year.n.01 Quantity -1
+female.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 EQU hearer have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now long.a.02 Value + body.n.01 Attribute -1
+person.n.01 EQU speaker time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Barcelona" time.n.08 YearOfCentury 1946
+male.n.02 reply.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 male.n.02 ANA -3 steal.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +3 male.n.02 ANA -3 quantity.n.01 EQU 3 year.n.01 Quantity -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01 CONSEQUENCE <1 person.n.01 EQU hearer time.n.08 EQU now drink.v.01 Agent -2 Time -1 Patient +1 apple.n.01
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now mr.n.01 male.n.02 Name "Brown" Title -1 country.n.02 Name "United States"
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer see.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now person.n.01 EQU hearer
+female.n.02 Name "Mary" be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now female.n.02 ANA -3 person.n.01 Role +1 husband.n.01 Of -2
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 Name "Tom" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Boston" time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU hearer want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now kill.v.01 Agent -3 Patient +1 frozen_food.n.01
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 TPR now high_school.n.01
+male.n.02 Name "Tom" take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shoe.n.01 User -1
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +1 female.n.02 Name "Mary"
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU hearer have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+male.n.02 Name "Tom" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now female.n.02 Name "Mary" CONTINUATION <1 female.n.02 ANA -1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now female.n.02 Name "Marilyn Monroe"
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 coat.n.01 User -1 quantity.n.01 EQU 3 year.n.01 Quantity -1
+person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+mr.n.01 male.n.02 Name "Smith" Title -1 have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1
+male.n.02 Name "Tom" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 58654360 Name "Athens" time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now crowd.n.01
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 wipe.v.01 Agent -1 Time +1 Theme +2 Source +4 time.n.08 TPR now tear.n.01 male.n.02 ANA -4 leg.n.01 PartOf -1
+person.n.01 EQU speaker time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Duration +3 city.n.01 Name "Barcelona" time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now mr.n.01 male.n.02 Name "Brown" Title -1 country.n.02 Name "United States"
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now purchase.v.01 Agent -3 Theme +1 pen.n.01
+person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now bank.n.02
+female.n.02 have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+male.n.02 eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 leg.n.01 PartOf -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico"
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 mistake.n.01 Creator -1
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico"
+person.n.01 EQU hearer time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01 CONSEQUENCE <1 person.n.01 EQU hearer POSSIBILITY <1 time.n.08 EQU now late.a.01 AttributeOf -2 Time -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+female.n.02 Name "Mary" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now long.a.02 Value + body.n.01 Attribute -1
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 Name "Mary" time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 3 apple.n.01 Quantity -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Tom" take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shoe.n.01 User -1
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 60 quid.n.01 Quantity -1
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 coat.n.01 User -1 quantity.n.01 EQU 3 year.n.01 Quantity -1
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+male.n.02 Name "Tom" name.v.01 Agent -1 Time +1 Theme +3 Result +4 time.n.08 TPR now male.n.02 ANA -3 dog.n.01 Owner -1 name.n.01 EQU "Cookie"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 teach.v.01 Agent -2 Time +1 Recipient +2 Theme +3 time.n.08 EQU now person.n.01 EQU speaker english.n.01
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 coat.n.01 User -1 quantity.n.01 EQU 3 year.n.01 Quantity -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 frozen_food.n.01
+female.n.02 Name "Melanie" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 Name "Tom" car.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker name.n.01 Bearer -1
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 station.n.01
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 Quantity + EQU +1 money.n.01
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now east.n.05 EQU +1 village.n.02
+female.n.02 Name "Holy" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4
+male.n.02 Name "Charlemagne" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Connecticut" time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU speaker time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 person.n.01 EQU hearer surname.n.01 Bearer -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico"
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 state.n.01 Name "Somali" time.n.08 YearOfCentury 1980
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+male.n.02 time.n.08 TPR now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 tear.n.01 Creator -1
+male.n.02 Name "Tom" take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shoe.n.01 User -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 Name "Darwin" car.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 reply.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 male.n.02 ANA -3 steal.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU hearer time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01 CONSEQUENCE <1 person.n.01 EQU hearer POSSIBILITY <1 drink.v.01 Agent -1 Patient +1 apple.n.01
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 location.n.01 EQU ? male.n.02 Name "Frederik" be.v.03 Location -2 Theme -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 name.v.01 Agent -2 Time +1 Theme +3 Result +4 time.n.08 TPR now name.n.01 EQU "Multi" name.n.01 EQU "Multi"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU hearer shirt.n.01 User -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1980
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 frozen_food.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 Duration +4 time.n.08 TPR now city.n.01 quantity.n.01 EQU 3 year.n.01 Quantity -1
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +2 time.n.08 TPR now female.n.02 Name "Hokkaido" CONTINUATION <1 female.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+female.n.02 wipe.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+person.n.01 Role +1 teacher.n.01 joke.v.01 Proposition >1 Agent -2 Time +1 time.n.08 TPR now CONTINUATION <0 person.n.01 Role +1 physician.n.01 time.n.08 TPR now hungry.a.01 Experiencer -3 Time -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 wipe.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 Name "Tom" car.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 Name "Tom" car.n.01 User -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now long.a.02 Value + body.n.01 Attribute -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 coat.n.01 User -1 quantity.n.01 EQU 3 year.n.01 Quantity -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 state.n.01 Name "Somali" time.n.08 YearOfCentury 1980
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 Name "Mary" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now long.a.02 Value + body.n.01 Attribute -1
+female.n.02 Name "Mayuko" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 female.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01 CONTRAST <1 entity.n.01 ANA -4 time.n.08 EQU now hungry.a.01 Experiencer -2 Time -1
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1 CONTINUATION <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +4 time.n.08 TPR now person.n.01 Role +1 physician.n.01 dog.n.01 Owner -2
+male.n.02 wipe.v.01 Agent -1 Time +1 Theme +2 Source +4 time.n.08 TPR now tear.n.01 male.n.02 ANA -4 leg.n.01 PartOf -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now mr.n.01 male.n.02 Name "Brown" Title -1 country.n.02 Name "United States"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now crowd.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Duration +3 state.n.01 Name "Bavaria" quantity.n.01 EQU 3 year.n.01 Quantity -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+country.n.02 Name "Germany" time.n.08 EQU now name.v.01 Theme -2 Time -1 Result +1 Context +2 name.n.01 EQU "Deutschland" arabic.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Maxas" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+male.n.02 time.n.08 TPR now male.n.02 ANA -2 wallet.n.01 User -1 steal.v.01 Beneficiary -4 Time -3 Theme -1
+male.n.02 Name "Tom" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 person.n.01 EQU hearer
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU hearer be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 friend.n.01 Of +1 person.n.01 EQU hearer
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+country.n.02 Name "Germany" time.n.08 EQU now name.v.01 Theme -2 Time -1 Result +1 Context +2 name.n.01 EQU "Deutschland" arabic.n.01
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 leg.n.01 PartOf -1
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 write.v.01 Time -4 Agent -3 Duration -1 Result +1 book.n.01
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 3 apple.n.01 Quantity -1
+male.n.02 Name "Tom" time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 food.n.01 Creator -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Tom" put.v.01 Agent -1 Time +1 Theme +3 Destination +5 time.n.08 TPR now male.n.02 ANA -3 coat.n.01 User -1 female.n.02 Name "Mary"
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now quantity.n.01 EQU 1000 yen.n.02 Quantity -1
+male.n.02 Name "Tom" take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 shirt.n.01 User -1
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+country.n.02 Name "Germany" time.n.08 TPR now carry.v.01 Theme -2 Time -1 Agent +1 female.n.02 Name "Sophie" CONTINUATION <1 female.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 time.n.08 TPR now male.n.02 ANA -2 car.n.01 User -1 steal.v.01 Beneficiary -4 Time -3 Theme -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Barcelona" time.n.08 YearOfCentury 1946
+female.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 island.n.01 EQU +1 island.n.01 Name "Hokkaido"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU hearer have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now long.a.02 Value + body.n.01 Attribute -1
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 female.n.02 time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -6
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU speaker time.n.08 EQU now wear.v.01 Agent -2 Time -1 Theme +2 person.n.01 EQU speaker hat.n.01 User -1
+male.n.02 time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 meat.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now east.n.05 EQU +1 village.n.02
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Recipient +2 time.n.08 EQU now person.n.01 EQU hearer CONSEQUENCE <1 person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 58654360 Name "Athens" time.n.08 YearOfCentury 1946
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "Tom"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico"
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+female.n.02 Name "Mary" name.v.01 Agent -1 Time +1 Theme +3 Result +4 time.n.08 TPR now female.n.02 ANA -3 dog.n.01 Owner -1 name.n.01 EQU "Rex"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+female.n.02 Name "Melanie" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Barcelona" time.n.08 YearOfCentury 1946
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU hearer want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -4 Patient +1 frozen_food.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+female.n.02 Name "Lady of the Sea" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 female.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU speaker nose.n.01 PartOf -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now crowd.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 TAB now time.n.08 TAB -1
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 leg.n.01 PartOf -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU speaker nose.n.01 PartOf -1
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now east.n.05 EQU +1 village.n.02
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 food.n.01 Creator -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 EQU "Howard Caine" CONTINUATION <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "Ricardo" mistake.n.01 Creator -1
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +3 male.n.02 ANA -3 quantity.n.01 EQU 3 year.n.01 Quantity -1
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 parent.n.01 Of -2
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Tom" entity.n.01 Sub -1 Sub +1 female.n.02 Name "Mary" time.n.08 EQU now play.v.01 Agent -3 Time -1 Theme +1 chess.n.02
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 state.n.01 Name "Bavaria" time.n.08 TIN +1 day.n.03 TCT now
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now imitation.a.01 entity.n.01 Attribute -1 APX +1 name.n.01 EQU "Cougars
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1 CONTINUATION <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now female.n.02 Name "Alice" mistake.n.01 Creator -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01 Quantity + EQU +1 money.n.01
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now crowd.n.01
+country.n.02 Name "Germany" time.n.08 EQU now located.a.01 Theme -2 Time -1 Location +1 continent.n.01 Name "Africa"
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+female.n.02 Name "Mary" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4 mistake.n.01 Creator -1
+male.n.02 Name "Tom" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01 CONSEQUENCE <1 person.n.01 EQU hearer POSSIBILITY <1 eat.v.01 Agent -1 Patient +1 apple.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 son.n.01 Of -2
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now mr.n.01 male.n.02 Name "Brown" Title -1 country.n.02 Name "United States"
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 state.n.01 Name "Bavaria" time.n.08 YearOfCentury 1980
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU speaker nose.n.01 PartOf -1
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer name.n.01 Bearer -1 CONTRAST <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 room.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Tom" time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 food.n.01 Creator -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +1 person.n.01 EQU hearer
+person.n.01 Role +1 terrorist.n.01 detonate.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now person.n.01 Role +1 physician.n.01 dog.n.01 Owner -2
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Darwin" CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1 CONTINUATION <1 entity.n.01 ANA -4 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker coat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 write.v.01 Time -4 Agent -3 Duration -1
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 Role +1 terrorist.n.01 detonate.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now person.n.01 Role +1 physician.n.01 dog.n.01 Owner -2
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now train.n.01
+person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 name.v.01 Agent -2 Time +1 Theme +3 Result +4 time.n.08 TPR now name.n.01 EQU "Multi" name.n.01 EQU "Multi"
+male.n.02 Name "Tom" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now large.a.01 Value + dog.n.01 Attribute -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 leg.n.01 PartOf -1
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+female.n.02 Name "Mary" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Charlemagne" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Connecticut" time.n.08 YearOfCentury 1946
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 write.v.01 Time -4 Agent -3 Duration -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 leg.n.01 PartOf -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 58654360 Name "Mexico" time.n.08 YearOfCentury 1946
+female.n.02 Name "Mary" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now long.a.02 Value + body.n.01 Attribute -1
+country.n.02 Name "Germany" time.n.08 EQU now located.a.01 Theme -2 Time -1 Location +1 continent.n.01 Name "Africa"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +4 time.n.08 TPR now person.n.01 Role +1 physician.n.01 dog.n.01 Owner -2
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+NEGATION <1 time.n.08 NEGATION <1 male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+female.n.02 Name "Mayuko" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 wipe.v.01 Agent -1 Time +1 Theme +2 Source +4 time.n.08 TPR now tear.n.01 male.n.02 ANA -4 leg.n.01 PartOf -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Tom" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Boston" time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now mr.n.01 male.n.02 Name "Brown" Title -1 country.n.02 Name "United States"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now mr.n.01 male.n.02 Name "Brown" Title -1 country.n.02 Name "United States"
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Duration +3 city.n.01 Name "Barcelona" quantity.n.01 EQU 3 year.n.01 Quantity -1
+entity.n.01 InstanceOf +1 EQU ? male.n.02 Name "Howard Caine" name.v.01 Agent -4 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -6 dog.n.01 Owner -1
+male.n.02 time.n.08 TPR now male.n.02 ANA -2 car.n.01 User -1 steal.v.01 Beneficiary -4 Time -3 Theme -1
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 station.n.01
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now quantity.n.01 EQU 6 egg.n.02 Quantity -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 female.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+entity.n.01 InstanceOf +1 EQU ? male.n.02 Name "Howard Caine" name.v.01 Agent -4 Time +1 Theme +3 Result +4 time.n.08 TPR now male.n.02 ANA -6 name.n.01 Bearer -1 name.n.01 EQU "Hazelnut"
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+female.n.02 Name "Mayuko" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+female.n.02 Name "Mayuko" time.n.08 EQU now wear.v.01 Agent -2 Time -1 Theme +2 blue.a.01 coat.n.01 Colour -1
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 write.v.01 Time -4 Agent -3 Duration -1 Result +1 book.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 TPR now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 male.n.02 ANA -3 tear.n.01 Creator -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 apple.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 58654360 Name "Athens" time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker person.n.01 Role +1 brother.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now bank.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker coat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+male.n.02 Name "Tom" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Boston" time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 Name "Tom" diary.n.01 Creator -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 leg.n.01 PartOf -1
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 InstanceOf +1 EQU ? male.n.02 Name "Howard Caine" name.v.01 Agent -4 Time +1 Theme +2 Result +3 time.n.08 TPR now name.n.01 EQU "Howard Caine" name.n.01 EQU "Hoechst"
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 wipe.v.01 Agent -1 Time +1 Theme +2 Source +4 time.n.08 TPR now tear.n.01 male.n.02 ANA -4 leg.n.01 PartOf -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Darwin" CONTINUATION <1 female.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Tom" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Boston" time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 Quantity + EQU +1 money.n.01
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 station.n.01
+country.n.02 Name "Germany" time.n.08 EQU now name.v.01 Theme -2 Time -1 Result +1 Context +2 name.n.01 EQU "Deutschland" arabic.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+female.n.02 Name "Mayuko" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now east.n.05 EQU +1 village.n.02
+entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +2 time.n.08 TPR now female.n.02 Name "Hokkaido" CONTINUATION <1 female.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 beer.n.01
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU speaker time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Barcelona" time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+NEGATION <1 time.n.08 NEGATION <1 male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico"
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +2 time.n.08 TPR now female.n.02 Name "Hokkaido" CONTINUATION <1 female.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+female.n.02 Name "Mary" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 frozen_food.n.01
+entity.n.01 InstanceOf +1 EQU ? male.n.02 Name "Howard Caine" name.v.01 Agent -4 Time +1 Theme +3 Result +4 time.n.08 TPR now male.n.02 ANA -6 dog.n.01 Owner -1 name.n.01 EQU "Maggy May"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 EQU hearer have.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01 Quantity + EQU +1 money.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Tom" entity.n.01 Sub -1 Sub +1 female.n.02 Name "Mary" play.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now chess.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+female.n.02 Name "Lady of the Sea" get_into.v.02 Theme -1 Time +1 Destination +3 time.n.08 TPR now female.n.02 ANA -3 room.n.01 User -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Duration +3 state.n.01 Name "Bavaria" quantity.n.01 EQU 3 year.n.01 Quantity -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 state.n.01 Name "Somali" time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 frozen_food.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+person.n.01 EQU hearer time.n.08 EQU now eat.v.01 Agent -2 Time -1 Patient +1 apple.n.01 CONSEQUENCE <1 person.n.01 EQU hearer POSSIBILITY <1 eat.v.01 Agent -1 Patient +1 apple.n.01
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker spectacles.n.01 User -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+female.n.02 Name "Lady of the Sea" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Connecticut" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+male.n.02 wipe.v.01 Agent -1 Time +1 Theme +2 Source +4 time.n.08 TPR now tear.n.01 male.n.02 ANA -4 leg.n.01 PartOf -1
+time.n.08 YearOfCentury ? time.n.08 TPR now movie.n.01 Name "Snow White" come_out.v.02 -3 Time -2 Theme -1
+male.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +3 male.n.02 ANA -3 quantity.n.01 EQU 3 year.n.01 Quantity -1
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 Duration +4 time.n.08 TPR now person.n.01 EQU hearer quantity.n.01 EQU 3 year.n.01 Quantity -1
+male.n.02 Name "Tom" NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 tall.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Mary"
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 58654360 Name "Athens" time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker person.n.01 Role +1 uncle.n.01 Of -2 populate.v.01 Theme -2 Time +1 Location +2 time.n.08 TPR now crowd.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 write.v.01 Time -4 Agent -3 Duration -1 Result +1 english.n.01
+entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 country.n.02 Name "Mexico"
+male.n.02 time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 state.n.01 Name "Bavaria" time.n.08 YearOfCentury 1980
+male.n.02 Name "Tom" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 city.n.01 Name "Boston" time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker time.n.08 EQU now quantity.n.01 EQU 3 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +4 time.n.08 TPR now person.n.01 Role +1 physician.n.01 dog.n.01 Owner -2
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+female.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 ANA -4
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Tom" get_into.v.02 Theme -1 Time +1 Destination +2 time.n.08 TPR now room.n.01 CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+country.n.02 Name "Germany" time.n.08 EQU now name.v.01 Theme -2 Time -1 Result +1 Context +2 name.n.01 EQU "Deutschland" arabic.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 Role +1 terrorist.n.01 detonate.v.01 Agent -2 Time +1 time.n.08 TPR now CONTINUATION <1 person.n.01 Role +1 physician.n.01 be.v.02 Theme -2 Time +1 Co-Theme +3 time.n.08 TPR now person.n.01 Role +1 physician.n.01
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 leg.n.01 PartOf -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 write.v.01 Time -4 Agent -3 Duration -1
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +2 Location +4 time.n.08 EQU now entity.n.01 Quantity + EQU +1 fish.n.01 lake.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+NEGATION <1 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 3 year.n.01 Quantity -1 lean.v.01 Theme -4 Time -3 Duration -1
+entity.n.01 InstanceOf +1 EQU ? male.n.02 Name "Howard Caine" name.v.01 Agent -4 Time +1 Theme +2 Result +3 time.n.08 TPR now name.n.01 EQU "Howard Caine" name.n.01 EQU "Hoechst"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 country.n.02 Name "Mexico" time.n.08 YearOfCentury 1980 country.n.02 Name "Mexico" Source -1
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +3 time.n.08 TPR now male.n.02 ANA -3 leg.n.01 PartOf -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 tall.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 ANA -4 person.n.01 Role +1 father.n.01 Of -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +2 female.n.02 ANA -3 mistake.n.01 Creator -1
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 EQU speaker take_off.v.06 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker hat.n.01 User -1 get_into.v.02 Theme -5 Time +1 Destination +2 time.n.08 TPR now church.n.02
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now microwave.v.01 Agent -3 Patient +1 frozen_food.n.01
+person.n.01 EQU hearer drink.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now quantity.n.01 EQU 3 cup.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 coffee.n.01
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +4 time.n.08 TPR now person.n.01 Role +1 physician.n.01 dog.n.01 Owner -2
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+person.n.01 Role +1 soldier.n.01 block.v.01 Agent -2 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "Darwin" CONTINUATION <1 male.n.02 ANA -1 pass_away.v.01 Patient -1 Time +1 time.n.08 TPR now
+person.n.01 EQU speaker time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Duration +3 city.n.01 Name "Barcelona" time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02
+male.n.02 Name "Maximilian" time.n.08 TPR now as.r.01 Theme -2 Co-Theme +2 nervous.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now eat.v.01 Agent -3 Patient +1 frozen_food.n.01
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+entity.n.01 be.v.03 Time +1 EQU -1 Theme +3 Location +4 time.n.08 EQU now red.a.01 rose.n.01 Colour -1 pottery.n.01
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 58654360 Name "Athens" time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+female.n.02 Name "Mayuko" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 Name "Mexico" time.n.08 YearOfCentury 1946 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 female.n.02 Name "Sophie"
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+male.n.02 Name "Maximilian" time.n.08 TPR now give_birth.v.01 Patient -2 Time -1 Location +1 Time +3 state.n.01 EQU +1 time.n.08 YearOfCentury 1946
+NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU hearer want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now kill.v.01 Agent -3 Patient +1 frozen_food.n.01
