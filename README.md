@@ -71,6 +71,9 @@ The proposed symbolic Discourse Meaning Representation in the style of PMB:
 
 The sequential data is already available at <code>/data</code> folder. For original data, download at the website of PMB: <a href="https://pmb.let.rug.nl/data.php"> data </a>
 
+_!!_ If you want to conduct experiments on the challenge set, please contact us.
+
+
 ### Installation
 
 1. Clone the repo
