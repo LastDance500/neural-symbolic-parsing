@@ -151,30 +151,34 @@ def structure_maintenance(embeddings, indices):
             return dot_product / (norm_vec1 * norm_vec2)
 
         # 计算各层次嵌入之间的余弦相似度
-        d30 = 1 - cosine_similarity(l3_embedding, l0_embedding) if l3_embedding is not None and l0_embedding is not None else None
-        d31 = 1 - cosine_similarity(l3_embedding, l1_embedding) if l3_embedding is not None and l1_embedding is not None else None
-        d20 = 1 - cosine_similarity(l2_embedding, l0_embedding) if l2_embedding is not None and l0_embedding is not None else None
-        d21 = 1 - cosine_similarity(l2_embedding, l1_embedding) if l2_embedding is not None and l1_embedding is not None else None
-        d10 = 1 - cosine_similarity(l1_embedding, l0_embedding) if l1_embedding is not None and l0_embedding is not None else None
+        d30 = 1 - cosine_similarity(l3_embedding,
+                                    l0_embedding) if l3_embedding is not None and l0_embedding is not None else None
+        d31 = 1 - cosine_similarity(l3_embedding,
+                                    l1_embedding) if l3_embedding is not None and l1_embedding is not None else None
+        d20 = 1 - cosine_similarity(l2_embedding,
+                                    l0_embedding) if l2_embedding is not None and l0_embedding is not None else None
+        d21 = 1 - cosine_similarity(l2_embedding,
+                                    l1_embedding) if l2_embedding is not None and l1_embedding is not None else None
+        d10 = 1 - cosine_similarity(l1_embedding,
+                                    l0_embedding) if l1_embedding is not None and l0_embedding is not None else None
+        d32 = 1 - cosine_similarity(l3_embedding,
+                                    l2_embedding) if l3_embedding is not None and l2_embedding is not None else None
 
-        # 判断距离关系
-        # comparisons = {
-        #     'd30 > d20': d30 > d20 if d30 is not None and d20 is not None else None,
-        #     'd30 > d10': d30 > d10 if d30 is not None and d10 is not None else None,
-        #     'd20 > d10': d20 > d10 if d20 is not None and d10 is not None else None,
-        #     'd31 > d21': d31 > d21 if d31 is not None and d21 is not None else None,
-        # }
-
-        if d30 > d20:
+        sum = 0
+        if d20 > d10:
             sum += 1
         if d30 > d10:
             sum += 1
-        if d20 > d10:
-            sum += 1
         if d31 > d21:
             sum += 1
+        if d20 > d21:
+            sum += 1
+        if d31 > d32:
+            sum += 1
+        if d30 > d32:
+            sum += 1
 
-        return sum/4
+        return sum / 6
 
     except Exception as e:
         return 0
